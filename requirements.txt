@@ -1,0 +1,6 @@
+gradio
+numpy
+pandas
+xgboost
+scikit-learn
+shap
