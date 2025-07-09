@@ -1,13 +1,3 @@
----
-title: Credit Risk Predictor
-emoji: 🏦
-colorFrom: yellow
-colorTo: red
-sdk: gradio
-app_file: app.py
-pinned: false
----
-
 # 🏦 Credit Risk Predictor
 
 This Space is a **Gradio-powered web app** that uses a machine learning model (XGBoost) to predict **credit risk** based on customer financial data. It helps financial institutions assess whether an applicant is likely to default on a loan.
